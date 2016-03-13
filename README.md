@@ -1,6 +1,7 @@
 codepilot evaluation
 ====================
 
+
 ## setup
 
 1. log into github.com
@@ -31,7 +32,7 @@ complete as many of the following tasks as you can.
 ## data (js)
 
 1. open the JQuery.getJSON documentation (http://api.jquery.com/jQuery.getJSON/)
-2. using this, parse this json weather data (https://raw.githubusercontent.com/jeremywrnr/jeremywrnr.github.io/master/weather.json)
+2. using this, parse this json weather data (https://raw.githubusercontent.com/jeremywrnr/jeremywrnr.github.io/7cc04951d4b0421e664ebbc9e4aa6642e2c02dbb/weather.json)
 3. add each data point as items to our weather list
 4. content of each of these list items should be: TimeEST and the TemperatureF
 5. compute the average temperature from this data set
@@ -41,4 +42,3 @@ complete as many of the following tasks as you can.
 
 1. first person who forked the repo: make a pull request onto the original repo
 2. complete a brief survey about your experiences with CodePilot
-
