@@ -12,5 +12,6 @@ h1:hover{
 h2 {
     margin: auto;
     width: 100%;
+    text-align: center;
     color: #D5E3E8;
 }
