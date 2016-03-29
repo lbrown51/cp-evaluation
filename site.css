@@ -5,11 +5,12 @@ h1 {
     
 }
 
-h1: hover{
-    color: ;
+h1:hover{
+    color: red;
 }
 
 h2 {
     margin: auto;
     width: 100%;
+    color: #D5E3E8;
 }
